@@ -1,4 +1,4 @@
-# CanvasRectangeGame
+# CanvasRectangleGame
 Quick Game with html5 canvas and rectangles. 
 
 A quick game that has:
